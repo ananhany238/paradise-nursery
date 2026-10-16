@@ -1,0 +1,7 @@
+{
+  "routes": [
+    { "path": "/", "title": "Home | Paradise Nursery" },
+    { "path": "/plants", "title": "Plants | Paradise Nursery" },
+    { "path": "/cart", "title": "Cart | Paradise Nursery" }
+  ]
+}
