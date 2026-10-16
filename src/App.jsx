@@ -20,7 +20,7 @@ function HomePage() {
           <h1>Bring the<br /><em>outside in.</em></h1>
           <p>Make room for a slower rhythm with plants that feel like they belong.</p>
           <Link className="button button-light" to="/plants">
-            Explore the collection <ArrowRight size={18} />
+            Get Started <ArrowRight size={18} />
           </Link>
         </div>
         <div className="hero-foot content-wrap">
