@@ -28,7 +28,7 @@ The deployable output is generated in `dist/`.
 
 ## GitHub Pages
 
-Pushing to `main` runs `.github/workflows/deploy.yml`, which builds the Vite app and publishes `dist/` to GitHub Pages. The app uses hash routing so Home, Plants, and Cart remain available on a static host.
+The committed `docs/` directory contains the latest production build. In the repository settings, set Pages to deploy from the `main` branch and the `/docs` folder. The app uses hash routing so Home, Plants, and Cart remain available on a static host.
 
 ## Required project files
 
